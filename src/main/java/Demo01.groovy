@@ -1,5 +1,5 @@
 class Demo01 {
     static void main(args){
-        println(" hello  jenkins! ")
+        println("  hello  jenkins! ")
     }
 }
